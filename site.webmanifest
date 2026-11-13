@@ -1,0 +1,11 @@
+{
+  "name": "PHLV Placas Solares Huelva",
+  "short_name": "PHLV Solar",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "theme_color": "#1A3A4A",
+  "background_color": "#F5F2EC",
+  "display": "standalone",
+  "start_url": "/"
+}
